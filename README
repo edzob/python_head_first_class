@@ -1,12 +1,18 @@
-Python development:
+== Python development: ==
 Local.. with text files and a local editor.. 
 Python is on the stick and on Mac OS/X by default
 
+== Cloud Development: ==
 Something to try.. Coding in the cloud.
 
 Editor -> Cloud9 -> https://c9.io/site/pricing/
-
 Link to Python repro: https://c9.io/edzob/python_head_first_class
+
+== Github ==
+Cloud9 has it's local place to save files.
+But you can also save files into github for extra location/backup
+and that other developers can access it via github.
+
 Backend file storage: https://github.com/edzob/python_head_first_class
 
 Challenge.. Edzo does not have that much experience :)
